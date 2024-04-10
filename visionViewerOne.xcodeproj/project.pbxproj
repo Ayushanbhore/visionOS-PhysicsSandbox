@@ -15,6 +15,10 @@
 		E16153DF2BC70239005C03CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E16153DE2BC70239005C03CB /* Assets.xcassets */; };
 		E16153E22BC70239005C03CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E16153E12BC70239005C03CB /* Preview Assets.xcassets */; };
 		E16153ED2BC70239005C03CB /* visionViewerOneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16153EC2BC70239005C03CB /* visionViewerOneTests.swift */; };
+		E1F25B8F2BC728C100B5422A /* Dice.usdz in Resources */ = {isa = PBXBuildFile; fileRef = E1F25B8E2BC728C100B5422A /* Dice.usdz */; };
+		E1F25B902BC728C100B5422A /* Dice.usdz in Resources */ = {isa = PBXBuildFile; fileRef = E1F25B8E2BC728C100B5422A /* Dice.usdz */; };
+		E1F25B922BC728D000B5422A /* Dice.scn in Resources */ = {isa = PBXBuildFile; fileRef = E1F25B912BC728D000B5422A /* Dice.scn */; };
+		E1F25B932BC728D000B5422A /* Dice.scn in Resources */ = {isa = PBXBuildFile; fileRef = E1F25B912BC728D000B5422A /* Dice.scn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +43,8 @@
 		E16153E32BC70239005C03CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E16153E82BC70239005C03CB /* visionViewerOneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = visionViewerOneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E16153EC2BC70239005C03CB /* visionViewerOneTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = visionViewerOneTests.swift; sourceTree = "<group>"; };
+		E1F25B8E2BC728C100B5422A /* Dice.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Dice.usdz; sourceTree = SOURCE_ROOT; };
+		E1F25B912BC728D000B5422A /* Dice.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Dice.scn; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +91,8 @@
 				E16153D62BC70238005C03CB /* visionViewerOneApp.swift */,
 				E16153D82BC70238005C03CB /* ContentView.swift */,
 				E16153DA2BC70238005C03CB /* ImmersiveView.swift */,
+				E1F25B8E2BC728C100B5422A /* Dice.usdz */,
+				E1F25B912BC728D000B5422A /* Dice.scn */,
 				E16153DC2BC70238005C03CB /* ImageBasedLighting.skybox */,
 				E16153DE2BC70239005C03CB /* Assets.xcassets */,
 				E16153E32BC70239005C03CB /* Info.plist */,
@@ -202,7 +210,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E16153DF2BC70239005C03CB /* Assets.xcassets in Resources */,
+				E1F25B922BC728D000B5422A /* Dice.scn in Resources */,
 				E16153E22BC70239005C03CB /* Preview Assets.xcassets in Resources */,
+				E1F25B8F2BC728C100B5422A /* Dice.usdz in Resources */,
 				E16153DD2BC70238005C03CB /* ImageBasedLighting.skybox in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -211,6 +221,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1F25B902BC728C100B5422A /* Dice.usdz in Resources */,
+				E1F25B932BC728D000B5422A /* Dice.scn in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
