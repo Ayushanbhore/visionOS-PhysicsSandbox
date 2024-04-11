@@ -15,6 +15,9 @@ To get started with VisionOS Physics Sandbox, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your macOS device using the following command:
 
+``` bash
+git clone https://github.com/ayushanbhore/visionOS-PhysicsSandbox.git
+```
 
 2. **Transfer to Apple Vision Pro**: Transfer the cloned repository to your Apple Vision Pro device.
 
