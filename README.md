@@ -41,9 +41,6 @@ We welcome contributions from the community! If you find any issues or have sugg
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-Special thanks to Ayushanbhore for developing VisionOS Physics Sandbox.
 
 ## Support
 
